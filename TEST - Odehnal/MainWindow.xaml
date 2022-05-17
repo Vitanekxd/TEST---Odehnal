@@ -1,0 +1,18 @@
+﻿<Window x:Class="TEST___Odehnal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TEST___Odehnal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="10,0,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="200" Height="350"/>
+        <Button Content="Nalozit" HorizontalAlignment="Left" Margin="215,316,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.522,0.519" Height="76" Width="95"/>
+        <Button Content="Vylozit" HorizontalAlignment="Left" Margin="215,235,0,0" VerticalAlignment="Top" Height="76" Width="95"/>
+        <TextBox HorizontalAlignment="Left" Margin="590,0,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Center" Width="200" Height="350"/>
+        <Button Content="Vylozit" HorizontalAlignment="Left" Margin="490,235,0,0" VerticalAlignment="Top" Height="76" Width="95"/>
+        <Button Content="Nalozit" HorizontalAlignment="Left" Margin="490,316,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.522,0.519" Height="76" Width="95"/>
+
+    </Grid>
+</Window>
